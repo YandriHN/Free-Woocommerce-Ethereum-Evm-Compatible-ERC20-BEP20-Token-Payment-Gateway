@@ -56,3 +56,8 @@ Update:
 >fix bug.<br>
 
 
+#### Buy Cryptocurrency:
+https://www.mimi.exchange/
+
+#### Token Airdop:
+https://github.com/AlgoNetwork/Bee-Sender-v2
